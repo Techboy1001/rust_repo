@@ -3,8 +3,8 @@ name = "table"
 version = "0.1.0"
 authors = ["waqas"]
 edition = "2018"
-description = "By using this crate you can print table of any number.For use this crate ,write these lines in main.rs file. 'extern crate table;'.table::counter(start value,end value);"
-licience = "MIT"
+description = "By using this crate you can print table of any number.For use this crate ,write these lines in main.rs file. 'extern crate table;','table::counter(start value,end value);'"
+license = "MIT"
 repository = "https://github.com/Techboy1001/rust_repo"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
